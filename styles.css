@@ -895,3 +895,8 @@ a.ouwiki_noshow:link,a.ouwiki_noshow:visited {
 .ouwiki_import.ouwiki_import_step4 ul {
     list-style: none;
 }
+
+
+#page-report-outline-user .ouwiki_user_complete_report h2 {
+    font: inherit;
+}
